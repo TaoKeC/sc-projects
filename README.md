@@ -14,7 +14,7 @@ watch my project [Demo Videos!](https://drive.google.com/drive/folders/1Gi3bn9qP
 4. [MyDrawing](https://github.com/TaoKeChorng/sc-projects/tree/main/stanCode_Projects/my_drawing)\
   *image processing*
 5. [Pedestrian Removing Applicant](https://github.com/TaoKeChorng/sc-projects/blob/main/stanCode_Projects/pedestrian_removing_applicant/stanCodoshop.py)\
-  *image processing
+  *image processing*
 6. [Breakout Game](https://github.com/TaoKeChorng/sc-projects/blob/main/stanCode_Projects/break_out_game/breakout.py)\
   *animation & game designing*
 7. [Name Popularity Searching System](https://github.com/TaoKeChorng/sc-projects/blob/main/stanCode_Projects/name_searching_system/babygraphics.py)\
