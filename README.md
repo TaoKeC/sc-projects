@@ -13,11 +13,12 @@ watch my project [Demo Videos!](https://drive.google.com/drive/folders/1Gi3bn9qP
   *image processing*
 4. [MyDrawing](https://github.com/TaoKeChorng/sc-projects/tree/main/stanCode_Projects/my_drawing)\
   *image processing*
-5. [Breakout Game](https://github.com/TaoKeChorng/sc-projects/blob/main/stanCode_Projects/break_out_game/breakout.py)\
-  *animation & game designing*
-6. [Name Popularity Searching System](https://github.com/TaoKeChorng/sc-projects/blob/main/stanCode_Projects/name_searching_system/babygraphics.py)\
-  *data structure*
-7. [Boggle Game Solver](https://github.com/TaoKeChorng/sc-projects/blob/main/stanCode_Projects/boggle_game_solver/boggle.py)\
-  *recursive functions*
-8. [Pedestrian Removing Applicant]()
+5. [Pedestrian Removing Applicant](https://github.com/TaoKeChorng/sc-projects/blob/main/stanCode_Projects/pedestrian_removing_applicant/stanCodoshop.py)\
   *image processing
+6. [Breakout Game](https://github.com/TaoKeChorng/sc-projects/blob/main/stanCode_Projects/break_out_game/breakout.py)\
+  *animation & game designing*
+7. [Name Popularity Searching System](https://github.com/TaoKeChorng/sc-projects/blob/main/stanCode_Projects/name_searching_system/babygraphics.py)\
+  *data structure*
+8. [Boggle Game Solver](https://github.com/TaoKeChorng/sc-projects/blob/main/stanCode_Projects/boggle_game_solver/boggle.py)\
+  *recursive functions*
+
