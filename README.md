@@ -19,3 +19,5 @@ watch my project [Demo Videos!](https://drive.google.com/drive/folders/1Gi3bn9qP
   *data structure*
 7. [Boggle Game Solver](https://github.com/TaoKeChorng/sc-projects/blob/main/stanCode_Projects/boggle_game_solver/boggle.py)\
   *recursive functions*
+8. [Pedestrian Removing Applicant]()
+  *image processing
